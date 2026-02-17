@@ -1,4 +1,4 @@
-# Notes App
+# Blog Website
 
 | **Status** <img width="100" height="1"> | : | Stable |
 | :--- | :---: | :--- |
